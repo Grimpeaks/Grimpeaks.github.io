@@ -177,6 +177,16 @@ a:not([href]):hover {
   text-decoration: none;
 }
 
+.linkType2 {
+  color: #117964;
+  text-decoration: none;
+  background-color: transparent;
+}
+.linkType2:hover {
+  color: #0c594a;
+  text-decoration: underline;
+}
+
 pre,
 code,
 kbd,
